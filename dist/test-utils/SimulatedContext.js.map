@@ -1,0 +1,1 @@
+{"version":3,"file":"SimulatedContext.js","sourceRoot":"","sources":["../../src/test-utils/SimulatedContext.ts"],"names":[],"mappings":";;;;;AAAA,iEAAyC;AAGzC,MAAqB,gBAGnB,SAAQ,iBAAa;IAGrB,YAAY,OAAY;QACtB,KAAK,CAAC,OAAO,CAAC,CAAC;QAEf,IAAI,CAAC,SAAS,GAAG,OAAO,CAAC,QAAQ,CAAC;IACpC,CAAC;IAED,IAAI,QAAQ;QACV,OAAO,IAAI,CAAC,SAAS,CAAC;IACxB,CAAC;IAGD,QAAQ,KAAI,CAAC;CACd;AAlBD,mCAkBC"}

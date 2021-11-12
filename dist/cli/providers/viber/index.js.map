@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../../../src/cli/providers/viber/index.ts"],"names":[],"mappings":";;AAAA,kBAAe;IACb,KAAK,EAAE,OAAO;IACd,WAAW,EAAE,IAAI,GAAG,CAAC,CAAC,MAAM,EAAE,SAAS,CAAC,CAAC;IACzC,IAAI,OAAO;QACT,OAAO,OAAO,CAAC,WAAW,CAAC,CAAC,OAAO,CAAC;IACtC,CAAC;IACD,IAAI,IAAI;QACN,OAAO,OAAO,CAAC,QAAQ,CAAC,CAAC,OAAO,CAAC;IACnC,CAAC;CACF,CAAC"}

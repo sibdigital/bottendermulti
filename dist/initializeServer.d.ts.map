@@ -1,0 +1,1 @@
+{"version":3,"file":"initializeServer.d.ts","sourceRoot":"","sources":["../src/initializeServer.ts"],"names":[],"mappings":"AAEA,OAAO,OAAO,MAAM,SAAS,CAAC;AAa9B,OAAO,EAAU,eAAe,EAAmB,MAAM,SAAS,CAAC;AAWnE,iBAAS,gBAAgB,CAAC,EACxB,SAAS,EACT,MAAM,GACP,GAAE;IACD,SAAS,CAAC,EAAE,OAAO,CAAC;IACpB,MAAM,CAAC,EAAE,eAAe,CAAC;CACrB,GAAG,OAAO,CAAC,WAAW,GAAG,IAAI,CAyElC;AAED,eAAe,gBAAgB,CAAC"}

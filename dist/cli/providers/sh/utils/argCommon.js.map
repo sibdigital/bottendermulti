@@ -1,0 +1,1 @@
+{"version":3,"file":"argCommon.js","sourceRoot":"","sources":["../../../../../src/cli/providers/sh/utils/argCommon.ts"],"names":[],"mappings":";;AAAA,MAAM,UAAU,GAAG;IACjB,QAAQ,EAAE,OAAO;IACjB,IAAI,EAAE,QAAQ;IAEd,WAAW,EAAE,OAAO;IACpB,IAAI,EAAE,WAAW;CAClB,CAAC;AAEF,kBAAe,GAAG,EAAE,CAAC,UAAU,CAAC"}
