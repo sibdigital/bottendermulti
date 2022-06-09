@@ -43,9 +43,9 @@ class Server {
             res.end('Internal Server Error');
         });
     }
-    prepare() {
+    prepare(config) {
         return __awaiter(this, void 0, void 0, function* () {
-            const bottenderConfig = getBottenderConfig_1.default();
+            const bottenderConfig = getBottenderConfig_1.default(config);
             const { initialState, plugins, channels } = merge_1.default(bottenderConfig);
             const sessionStore = getSessionStore_1.default();
             const Entry = require(path_1.default.resolve('index.js'));

@@ -14,12 +14,12 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const Server_1 = __importDefault(require("./Server"));
 class DevServer extends Server_1.default {
-    prepare() {
+    prepare(config) {
         const _super = Object.create(null, {
             prepare: { get: () => super.prepare }
         });
         return __awaiter(this, void 0, void 0, function* () {
-            return _super.prepare.call(this);
+            return _super.prepare.call(this, config);
         });
     }
 }
